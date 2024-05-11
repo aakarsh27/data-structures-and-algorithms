@@ -1,4 +1,4 @@
-#DATA STRUCTURES AND ALGORITHMS
+## DATA STRUCTURES AND ALGORITHMS
 
 a practice of all the data structures to improve skills 
 
